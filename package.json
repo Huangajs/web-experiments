@@ -1,0 +1,23 @@
+{
+  "name": "web-experiments",
+  "version": "0.0.1",
+  "description": "for experiments",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huangajs/web-experiments.git"
+  },
+  "author": "Huangajs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huangajs/web-experiments/issues"
+  },
+  "homepage": "https://github.com/Huangajs/web-experiments#readme",
+  "dependencies": {
+    "json-server": "^0.9.6"
+  }
+}
